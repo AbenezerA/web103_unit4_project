@@ -1,0 +1,30 @@
+.create-car {
+    /* display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; */
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.car-options {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.create-car-price {
+    margin: 10px auto;
+}
+
+.create-car-name {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.delete-car-button {
+    background-color: crimson;
+}
